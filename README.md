@@ -1,4 +1,8 @@
-## Hi there 👋
+## Excuse the mess 🗑️
+- 🖥️ COMPE grad student (Hi Ugur!) in Computer Networks
+- 🌆 Usually goes by Dusk (it/they/he). Elpy is fine, though, I guess
+- 🏥 Did a bunch of tiny [Rhythm Doctor](https://store.steampowered.com/app/774181/Rhythm_Doctor/) projects
+- 🌟 Interested in networks, communication, testing, and software that can help improve people's quality of life.
 
 <!--
 **1ug1a/1ug1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
